@@ -10,3 +10,4 @@ Simple ftp cli for uploading my files and movies to my ftp server
 | ls | Show content of current directory|
 | buffer | Change buffer rate. defualt is 8192 |
 | exit | Exit the program|
+### You need to change server ip address in the script.
