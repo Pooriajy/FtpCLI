@@ -8,4 +8,5 @@ Simple ftp cli for uploading my files and movies to my ftp server
 | uploadir  | Upload the content of given directory to the remote server  |
 | cd | Change the current directory|
 | ls | Show content of current directory|
+| buffer | Change buffer rate. defualt is 8192 |
 | exit | Exit the program|
